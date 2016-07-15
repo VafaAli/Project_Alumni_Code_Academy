@@ -1,0 +1,35 @@
+body{
+	background-color: #F5F8F9;
+}
+nav{
+	background-color: #FFFFFF;
+}
+nav ul a, nav div a{
+	color: #636669 !important;
+}
+.icons li:first-child a{
+	color: #5AB967 !important;
+}
+.icons li:nth-child(2) a{
+	color: #FBAB4A !important;
+}
+.person_thumbnail{
+	position: relative;
+	top: 10px;
+	width: 40px;
+	height: 40px;
+	border-radius: 100%;
+}
+.bodyWrapper{
+	padding-top: 20px;
+}
+.sidebar{
+	height: 600px;
+	background-color: white;
+	margin-left: 1.9% !important;
+}
+.main{
+	height: 600px;
+	background-color: white;
+	margin-left: 1.9% !important;
+}
